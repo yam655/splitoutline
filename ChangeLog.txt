@@ -1,0 +1,23 @@
+split-outline (0.3): urgency=low (first public version)
+
+  * migrated to Python 3
+  * first version with a proper changelog file
+
+ -- Steven Black <yam655@gmail.com> Sun, 17 Aug 2014 09:57:40 -0400
+
+
+split-outline (0.2): urgency=low (still internal)
+
+  * chapter info added to each scene header
+  * indentation in chapter-stubs fixed.
+  * auto-migrates data as .dat filenames change (-1 to -01, etc)
+
+ -- Steven Black <yam655@gmail.com> Mon, 01 Oct 2012 00:00:00 -0400
+
+
+split-outline (0.1): urgency=low
+
+  * first internal functional version
+
+ -- Steven Black <yam656@gmail.com> Sat, 01 Jan 2011 00:00:00 -0500
+
